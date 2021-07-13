@@ -10,11 +10,18 @@ public class Progam {
         for (int i = 10; i > 0; i--)
             System.out.println("Hello loop decrement  " + i);
         for (int i = 1; i<= 10; i++) {
-            System.out.println(19 * i +1 );
+            System.out.println(19 * i);}
+
+              for (int i=10; i>0; i--){
+                  System.out.println("Hello " +i);
+              }
+                int n=0;
+              while ( n < 5){
+          System.out.println("gooogle...." + n );
+          n++;}
+
+            }
 
         }
-
-    }
-}
 
 
