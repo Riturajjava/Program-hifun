@@ -16,6 +16,7 @@ public class Mobile {
         Mobile object2=new Mobile();
         Mobile object3=new Mobile();
         Mobile object4=new Mobile();
+        System.out.println(object1.brand);
         System.out.println(object.price);
         System.out.println(object.Ram);
         System.out.println(object.camera);
