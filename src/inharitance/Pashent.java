@@ -10,8 +10,8 @@ public class Pashent extends Doctor {
 
     public static void main(String[] args) {
         Pashent obj=new Pashent();
-        obj.demo("Mohit");
-        obj.age(28);
+        obj.demo1("Mohit");
+        obj.age1(28);
         obj.specialization();
     }
 }

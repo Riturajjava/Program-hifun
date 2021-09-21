@@ -1,6 +1,6 @@
 package inharitance;
 
-public abstract class Abstractmethod {
+public abstract class  Abstractmethod {
     //Syntax : access_specifier return_type method_name(parameter){}
    // Abstract method : a method without method body is called abstract method
     // A method without method body is called abstract method

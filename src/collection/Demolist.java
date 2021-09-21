@@ -28,6 +28,7 @@ public class Demolist {
         marks.add(95);
         marks.add(45);
         marks.add(65);
+        marks.add(55);
 
 
 

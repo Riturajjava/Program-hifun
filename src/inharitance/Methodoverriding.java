@@ -13,7 +13,7 @@ public class Methodoverriding extends MethodOverloading {
 
     public static void main(String[] args) {
         Methodoverriding obj=new Methodoverriding();
-        obj.demo();
+        //obj.demo();
 
         // interview
          MethodOverloading obj_parent=new MethodOverloading();// object parent class
@@ -25,5 +25,6 @@ public class Methodoverriding extends MethodOverloading {
 
 
     }
+
     //  whatever object is created at Runtime that class will get called..
 }
