@@ -6,6 +6,7 @@ public class Methodoverriding extends MethodOverloading {
    // Method Overriding : same method signature but different method body
     // Syntax : access_specifier return_type method_name(parameter){}
 
+    @Override
     public void demo(){
         System.out.println("This is overridden method ");
 
